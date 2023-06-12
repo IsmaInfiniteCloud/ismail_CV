@@ -17,6 +17,14 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
+![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite)
+![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
+![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery)
+![AJAX](https://img.shields.io/badge/-AJAX-black?style=flat-square&logo=ajax)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 
 
 # spring-boot-angular2 starter kit

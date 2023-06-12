@@ -1,16 +1,7 @@
 # My Redmi FiLE
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
-![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=.net)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-
 
 
 [![build status](https://travis-ci.org/borysn/spring-boot-angular2.svg?branch=master)](https://travis-ci.org/borysn/spring-boot-angular2)
